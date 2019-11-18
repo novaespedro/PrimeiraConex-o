@@ -14,3 +14,10 @@ npm start
   localhost:3000/usuarios
   localhost:3000/leituras/ultimas
 Deve aparecer o conteúdo das tabelas de usuário e de aquisição de dados
+
+
+http://localhost:3000/grafico-chartjs.html
+
+http://localhost:3000/login.html
+
+http://localhost:3000/usuarios
